@@ -1,0 +1,16 @@
+segment_sources:
+  I71D91D70:
+    type: origin_type
+    relation: translation
+    language: en
+  I84946C84:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  231aa3a178b04aa99bc607d708948305:
+    I71D91D70: 9a4c775dc2f645a7a16efdd63064666f
+    I84946C84: f1786a2d1a654f28aba1e80ef87d39b7
+  8af0ff3812a64ec4b9483405099b41f6:
+    I71D91D70: 30b9e848b87244ae89d54607db05b5b1
+    I84946C84: 3a4a73d418e24503a2a224ab0aab0edf
